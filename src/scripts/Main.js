@@ -1,5 +1,5 @@
-import Experience from './Experience';
-import Icons from './utils/Icons';
+import Experience from './Experience.js';
+import Icons from './utils/Icons.js';
 
 class Main {
   constructor() {
